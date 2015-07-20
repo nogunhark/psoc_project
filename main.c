@@ -21,7 +21,7 @@
 
 #define MASK    0x0F
 
-#define STATUSTEST  0
+#define STATUSTEST  1
 
 #define PRINTTIME   500
 
